@@ -2,6 +2,7 @@
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
 [🏠 Back to Home](../../README.md)
 </div>
+
 ## Concepts
 
 ### Over the Air Updates
