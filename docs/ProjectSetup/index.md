@@ -1,6 +1,9 @@
+[🏠 Back to Home](../../README.md)
+
 # Project setup
 
-  - 1. 
+  - 1. `npx create-expo-app@latest`
+  - 2. [Continue with ExpoGo](https://docs.expo.dev/get-started/set-up-your-environment)
 
 
 ## Resources
