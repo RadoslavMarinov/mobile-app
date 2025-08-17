@@ -1,6 +1,7 @@
 # React Native App
 
 ## [Project setup](./docs/ProjectSetup/index.md)
+## [Development](./docs/Development/index.md)
 
 ## [Expo](./docs/Expo/index.md)
 
